@@ -84,17 +84,20 @@ the EC2 server.
 
 ## 📸 Screenshots
 
-### Jenkins Pipeline
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
+### Jenkins CI Pipeline
+![Jenkins CI Pipeline](screenshots/1-jenkins-ci-pipeline.png)
 
-### Jenkins Deployment
-![Jenkins Deployment](screenshots/jenkins-deployment.png)
+### Docker Hub Image
+![Docker Hub Image](screenshots/2-dockerhub-image.png)
 
-### Docker Hub
-![Docker Hub](screenshots/dockerhub-image.png)
+### AWS EC2 Instance
+![AWS EC2 Instance](screenshots/3-aws-ec2-instance.png)
+
+### Jenkins CD Pipeline
+![Jenkins CD Pipeline](screenshots/4-jenkins-cd-pipeline.png)
 
 ### Starbucks Application
-![Starbucks Application](screenshots/starbucks-application.png)
+![Starbucks Application](screenshots/5-starbucks-application.png)
 
 ## 🎯 Key Learnings
 
